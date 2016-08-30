@@ -1,3 +1,3 @@
-# Injección de platillas
+# Injección de platillas con AngularJS
 
-Injección de platillas con ng-include AngularJS
+Injección de platillas con la directiva de ng-include con AngularJS
